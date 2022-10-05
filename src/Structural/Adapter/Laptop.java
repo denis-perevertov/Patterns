@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Laptop implements Computer{
 
     public String name;
+    public int age;
     public String model;
 
     Scanner input = new Scanner(System.in);
